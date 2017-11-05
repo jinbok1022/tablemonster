@@ -1,0 +1,7 @@
+{
+  "name": "Table monster Alexa Skills",
+  "description": "Works with IOT devices over the firewall with Alexa skills",
+  "repository": "https://git.heroku.com/t-monster.git",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["tablemonster", "smart home", "iot", "arduino", "Alexa Skills"]
+}
